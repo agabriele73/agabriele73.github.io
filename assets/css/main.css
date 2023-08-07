@@ -2889,8 +2889,11 @@ input, select, textarea {
     -ms-flex: 1;
     flex: 1;
     /* ... other existing styles ... */
+	color: #080808;
     padding: 0.5em;
     width: 48%;
+	max-width: 100%;
+	margin: 0 auto;
 }
 
 .statistics li.style1 {
